@@ -1,7 +1,7 @@
 # money
 ## 收录有价值的技术文章，提升读者技术实力，每天进步一点点！
 
-### 1.[如何去写一手好sql](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247487280&idx=1&sn=bf82ccd54f7d6128fdcd4d38a29e0b38&chksm=9ac0b112adb73804db2dffa6ba29a99e2c342a77aa74de71e4de7a8c5d34a581b19a5e81c73d&mpshare=1&scene=1&srcid=&sharer_sharetime=1572919951305&sharer_shareid=2b98197084faca56f0b8bedd64106dbd#rd
+### 1. [如何去写一手好sql](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247487280&idx=1&sn=bf82ccd54f7d6128fdcd4d38a29e0b38&chksm=9ac0b112adb73804db2dffa6ba29a99e2c342a77aa74de71e4de7a8c5d34a581b19a5e81c73d&mpshare=1&scene=1&srcid=&sharer_sharetime=1572919951305&sharer_shareid=2b98197084faca56f0b8bedd64106dbd#rd
 ### 2. 深度解密Go语言之pprof https://juejin.im/post/5dca56ff518825575a358e9e)  
 ### 3. Linux 命令行下的好东西 http://mp.weixin.qq.com/s?__biz=MzU5NTgzMDYyMA==&mid=2247486881&idx=1&sn=fc037f1637e1efbce110dfbdfd07ac30&chksm=fe6abf92c91d36843cfe69d0f034c6131b7d97863870aff2ba2abec3b826b0c2d37c1dab8ce2&scene=0&xtrack=1#rd
 ### 4. MySQL 用limit 为什么会影响性能 http://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247487538&idx=2&sn=05224c7a85aebbb1d086ef0dc4a1234a&chksm=9ac0ae10adb7270650c847a6da3a5371e4577c80d3ee68ef693bee31fd72cf059d3ab8372913&scene=0&xtrack=1#rd
